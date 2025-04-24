@@ -1,0 +1,24 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore env & config
+.env
+*.env
+
+# Ignore logs and checkpoints
+*.log
+.ipynb_checkpoints/
+
+# Ignore data and model weights (optional)
+*.csv
+*.json
+*.pt
+*.bin
+
+# Streamlit cache
+.streamlit/
