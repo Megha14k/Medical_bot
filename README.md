@@ -13,3 +13,8 @@ This project is an AI chatbot that answers questions based on PDF documents usin
 - Optionally use Streamlit frontend for interaction
 
 ---
+
+
+### Chatbot UI
+
+![Chatbot UI](assets/chatbot_ui.png)
